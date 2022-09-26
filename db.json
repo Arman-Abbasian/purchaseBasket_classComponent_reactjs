@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "cover 405",
+      "productPrice": "35 $",
+      "productQuantity": 9
+    },
+    {
+      "id": 2,
+      "productName": "cover 206",
+      "productPrice": "44 $",
+      "productQuantity": 5
+    },
+    {
+      "id": 3,
+      "productName": "cover 2008",
+      "productPrice": "43 $",
+      "productQuantity": 3
+    }
+  ]
+}
